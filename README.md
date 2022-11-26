@@ -2,4 +2,4 @@
 
 Recordar ejecutar
 
-``` npm start ```
+``` npm install ```
